@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hazal-H
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on open projects to learn and observe.
